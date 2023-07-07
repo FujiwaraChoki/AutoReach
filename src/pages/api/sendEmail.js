@@ -26,11 +26,12 @@ const handler = async (req, res) => {
         let info;
         // Send email
         for (let i = 0; i < emails.length; i++) {
+            // If message is HTML
             info = await transporter.sendMail({
                 from: username,
                 to: emails[i],
                 subject: subject,
-                text: message,
+                html: message,
             });
         }
 
