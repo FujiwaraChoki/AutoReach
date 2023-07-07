@@ -32,7 +32,7 @@ const HomePage = () => {
         alert("Please add at least one email");
       };
     } else {
-      const res = await fetch("http://localhost:3000/api/sendEmail", {
+      const res = await fetch("/api/sendEmail", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
