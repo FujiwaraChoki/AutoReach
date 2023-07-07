@@ -1,6 +1,13 @@
 # AutoReach
 
-autoreach is an innovative app developed with Next.js that offers a range of services to automate and streamline business processes. It provides services such as scrapers, AI chatbots, and custom software solutions.
+[![GitHub license](https://img.shields.io/github/license/FujiwaraChoki/autoreach)](https://github.com/FujiwaraChoki/autoreach/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/FujiwaraChoki/autoreach)](https://github.com/FujiwaraChoki/autoreach/issues)
+[![GitHub stars](https://img.shields.io/github/stars/FujiwaraChoki/autoreach)](https://github.com/FujiwaraChoki/autoreach/stargazers)
+
+[![Image](assets/image.png)](https://autoreach.vercel.app/)
+
+AutoReach is an innovative app developed with Next.js that makes E-Mail Marketing and Outreach
+easier than ever before.
 
 ## Features
 
