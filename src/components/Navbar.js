@@ -18,10 +18,10 @@ const Navbar = () => {
                     <img
                         src="https://flowbite.com/docs/images/logo.svg"
                         className="h-8 mr-3"
-                        alt="Auto Outreach"
+                        alt="AutoReach"
                     />
                     <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                        Auto Outreach
+                        AutoReach
                     </span>
                 </Link>
                 <div className="flex md:order-2">
